@@ -14,8 +14,6 @@ paginate: 5
 
 # Build settings
 markdown: kramdown
-kramdown:
-  math_engine: mathjax
 highlighter: rouge
 sass:
     style: :compressed

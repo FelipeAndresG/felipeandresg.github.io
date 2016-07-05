@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hello World
-date: {}
+date:
+  'Thu Oct 08 2015 21:00:00 GMT-0300 (Hora oficial do Brasil)': null
 categories: null
 published: true
 ---

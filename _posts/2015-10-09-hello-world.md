@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Hello World"
-date:   2015-10-08 13:13:39
-categories:
+title: Hello World
+date: {}
+categories: null
+published: true
 ---
 Hi there, thanks for checking out Daryl, a performant and simple theme for [Jekyll](http://jekyllrb.com). I designed this theme to be as readable as possible, to be simple to use, and to keep the code used as vanilla as possible.
 
-It's open source for a reason: I've learned a lot from open source software and I'm trying to give a little something back. Hope you enjoy.
+It's open source for a reason: I've learned a lot from open source software and I'm trying to give a little something back. Hope you enjoy. $$a^2 + b^2 = c^2$$
 
 #### Daryl Features
 - Mobile-first and thereby...

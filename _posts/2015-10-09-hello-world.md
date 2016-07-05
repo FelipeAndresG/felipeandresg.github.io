@@ -18,7 +18,17 @@ Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block
 Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
 \\[ \frac{1}{n^{2}} \\]
 
-is it workin?
+is it working?
+
+{% highlight python %}
+def f(x,y):
+	return x**2 + y**2
+end
+
+for s in np.linspace(0,1,100):
+	print(s)
+end
+{% endhighlight %}
 
 #### Daryl Features
 - Mobile-first and thereby...

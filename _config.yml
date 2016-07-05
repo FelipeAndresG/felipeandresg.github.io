@@ -1,15 +1,14 @@
 # Site settings
-title: Daryl
-tagline: A performant and responsive Jekyll theme
-email: felipe.a.garcia.s@gmail.com
-description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Felipe García
+tagline: Student at École Polytechnique
+email: felipe.garcia@polytechnique.edu
+description: Felipe Garcia homesite about quantitative finance mathematics statistics and misc
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://daryl.andrewlee.name" # the base hostname & protocol for your site
-twitter_username: andrewcodes
-github_username:  andrewcodes
+url: "http://felipeandresg.github.io" # the base hostname & protocol for your site
+
+#twitter_username: felipe???
+
+github_username:  felipeandresg
 paginate: 5
 
 # Build settings
